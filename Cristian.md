@@ -1,0 +1,1 @@
+Numele de baiat **Cristian** este de origine romaneasca si are semnificatia de "a unge".
