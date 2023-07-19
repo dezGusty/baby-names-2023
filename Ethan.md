@@ -17,4 +17,4 @@ Izan (Spanish)
 
 ## IMAGE
 
-[Click here to go to a picture of Noah](/imagini/ethan.jpg)
+[Click here to go to a picture of Ethan](/imagini/ethan.jpg)
