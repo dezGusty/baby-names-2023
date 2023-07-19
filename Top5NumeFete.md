@@ -2,8 +2,8 @@
 
 ## Clasament:
 
-    1.
-    2.
-    3.
-    4.
-    5. [**Maria**](./Maria.md)
+1.
+2.
+3.
+4.
+5. [**Maria**](./Maria.md)
