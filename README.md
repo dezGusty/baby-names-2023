@@ -1,3 +1,3 @@
 # baby-names-2023
 ## Cuprins
-  [Index.md]("/Index.md")
+[Click here to go to index.md](/index.md)
