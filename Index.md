@@ -9,7 +9,7 @@
 8.  **Ella**
 9.  **Ethan**
 10. **George**
-11.  **Georgiana**
+11.  [**Georgiana**](./Georgiana.md)
 12.  **Ignatius**
 13. **Isabella**
 14.  **Marcel**
