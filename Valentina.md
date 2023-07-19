@@ -8,4 +8,3 @@
 
 >> Valentina este una dintre persoanele care sunt întotdeauna oneste, motiv pentru care nu apreciază genul de oameni care fac din „țânțar armăsar”. Sunt conștiente de faptul că adevărul este cel care învinge mereu, motiv pentru care nu apelează niciodată la minciuni.
 
->> Valentina este una dintre persoanele care sunt întotdeauna oneste, motiv pentru care nu apreciază genul de oameni care fac din „țânțar armăsar”. Sunt conștiente de faptul că adevărul este cel care învinge mereu, motiv pentru care nu apelează niciodată la minciuni.
