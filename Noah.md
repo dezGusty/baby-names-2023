@@ -18,3 +18,7 @@ As it is a biblical name, Noah has an equivalent in multiple languages, includin
 - Nooa (Finnish)
 - Noak (Swedish)
 - Nojus (Lithuanian)
+
+## IMAGE
+
+[Click here to go to a picture of Noah](/imagini/noah.jpg)
