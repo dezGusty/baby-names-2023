@@ -2,8 +2,8 @@
 
 ## Clasament:
 
-1. [Ignatius](./Ignatius.md)
-    2.
-    3.
-    4.
-    5.
+1. [**Ignatius**](./Ignatius.md)
+2. [**Cristian**](./Cristian.md)
+3.
+4.
+5. [**Dante**](./Dante.md) 
