@@ -3,7 +3,7 @@
 ## Clasament:
 
     1.
-    2.[**Cristian**](./Cristian.md)
+2.[**Cristian**](./Cristian.md)
     3.
     4.
     5. [**Dante**](./Dante.md) 
