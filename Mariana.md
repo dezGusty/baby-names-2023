@@ -1,7 +1,9 @@
 # Mariana
 
 ## Pic
+
 ![poza](./imagini/mariana.png)
+
 ## Etimologie
 
 Presupunerile referitoare la originea numelui Mariana sunt multe și variate, motiv pentru care vor fi prezentate acelea care sunt mai comune și care sunt considerate ca fiind cele juste.
