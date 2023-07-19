@@ -9,3 +9,5 @@ _"Diana"_ isi are originile in mitologia romana, fiind zeita Lunii, a padurilor 
 Se spune ca purtatoarea numelui _"Diana"_ este o persoana rafinata, sociabila, dar lipsita de vitalitate fizica. Desi isi doreste sa ii ajute si sa ii inteleaga pe cei din jur, dar nu are incredere in ea, nu are ambitia de a-si realiza visele. Luxul este ceea ce o reprezinta, de la imbracaminte si accesorii pana la aparatura si mobila din casa.
 
 Numele _"Diana"_ se aseamna in majoritatea limbilor, doar scrierea fiind putin diferita. Spre exemplu in engleza si in franceza exista variantele "Diane", "Dianna" sau "Dianne". In limba croata, in macedoniana, in slovena si in cea sarba numele se scrie identic, "Dijana", iar in limba hawaiana numele se scrie "Kiana".
+
+![alt text](http://assets.perfecte.ro/assets/perfecte/wpold/2013/04/bebelus-ochi-albastri.jpg)
