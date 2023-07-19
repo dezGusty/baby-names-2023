@@ -1,6 +1,6 @@
-# Diana
+# DIANA
 
-## Etimologia numelui
+## Etimologie
 
 Numele _"Diana"_ provine dintr-o derivatie veche cu radacini Indo-Europene, "dyw", ce semnifica "lumina zilei, cer luminos", iar in limba latina _"Diana"_ este o forma adjectivala a cuvatului "divus, dius" care inseamna divin sau ceresc.
 

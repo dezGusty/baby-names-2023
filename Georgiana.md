@@ -1,6 +1,6 @@
-#Georgiana
+# GEORGIANA
 
-##Etimologie
+## Etimologie
 
 Semnificatia numelui Georgina spune ca fetele care sunt botezate asa vor tot timpul sa rezolve probleme, sa fie de ajutor, sa fie in centrul atentiei.
 
