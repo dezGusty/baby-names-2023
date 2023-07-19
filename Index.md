@@ -3,13 +3,13 @@
 2.  **Arthur**
 3.  **Aurora**
 4.  [**Cristian**](./Cristian.md)
-5.  **Dante**
+5.  [**Dante**](./Dante.md)
 6. **Diana**
 7. **Eduard**
 8.  **Ella**
 9.  **Ethan**
 10. **George**
-11.  **Georgiana**
+11.  [**Georgiana**](./Georgiana.md)
 12.  **Ignatius**
 13. **Isabella**
 14.  **Marcel**
@@ -21,3 +21,4 @@
 20.  [**William**](./William.md)
 21.  [**Adolf**](./Adolf.md)
 
+[**Back**](./README.md)
