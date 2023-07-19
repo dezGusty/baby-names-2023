@@ -2,7 +2,7 @@
 
 ## Clasament:
 
-    1. [Ignatius](https://i.imgur.com/sKOR2YC.jpg)
+1. [Ignatius](./Ignatius.md)
     2.
     3.
     4.
