@@ -1,4 +1,4 @@
-# TOP 10 NUME BĂIEȚI 2022
+# TOP 5 NUME BĂIEȚI 2022
 
 ## Clasament:
 
@@ -7,8 +7,3 @@
     3.
     4.
     5.
-    6.
-    7.
-    8.
-    9.
-    10.
