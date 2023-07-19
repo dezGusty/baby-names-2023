@@ -8,3 +8,5 @@ Prima ipoteză este cea potrivit căreia numele Mariana ar proveni de la „Mary
 
 Mai există și o altă variantă referitoare la originea numelui, cea conform căreia numele Maria, care este înrudit Marianei, ar avea o origine egipteană, la rădăcina lui aflându-se verbul „mry” care vine tradus „a iubi”.
 abc
+
+[TOP-NUME-FETE](/top10NumeFete.md)
