@@ -1,6 +1,6 @@
-#Alina
+# ALINA
 
-##Etimologia numelui
+## Etimologie
 
 Numele de fata Alina este de origine romaneasca si are semnificatia de "a alina". Numele Alin este forma masculina a numelui Alina.
 
