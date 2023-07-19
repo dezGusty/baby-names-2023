@@ -21,4 +21,4 @@ As it is a biblical name, Noah has an equivalent in multiple languages, includin
 
 ## IMAGE
 
-[Click here to go to a picture of Noah](/imagini/noah.jpg){: style="display: inline-block; width: 256px; height: 256px;"}
+[Click here to go to a picture of Noah](/imagini/noah.jpg)
